@@ -1,1 +1,1 @@
-# Link-All-Assignments
+# JavaScript-Chapters-Practice
